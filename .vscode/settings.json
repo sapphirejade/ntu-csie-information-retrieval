@@ -1,0 +1,11 @@
+{
+    "notebook.formatOnSave.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/.conda"
+    ],
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/.conda"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": true,
+}
