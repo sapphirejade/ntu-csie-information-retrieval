@@ -9,7 +9,7 @@
 * [Preprocess_Single_Line.ipynb](/src/Preprocess_Single_Line.ipynb) 資料前處理
 * [Postprocess_Single_Line.ipynb](/src/Postprocess_Single_Line.ipynb) 資料後處理
 * [Pythia_70m.ipynb](/src/Pythia_70m.ipynb) 模型訓練
-Trial
+
 檔案在Windows、MacBook Pro M2、Google Colab環境下執行，但有幾點須注意。
 * 針對Windows/MacBook Pro M2：須將Repository完整Clone，並在Repository中配置.venv或.conda環境。因為程式碼檔案讀寫是照Repository目錄相對路徑執行。
 * 針對Google Colab：須將整個Repository放置到Google Drive，並在執行給予授權。因為Google Colab僅提供運行環境，資料無法永久保存在其虛擬機。
